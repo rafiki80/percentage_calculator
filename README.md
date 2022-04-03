@@ -1,2 +1,2 @@
 # percentage_calculator
-A percentage calculator for shopping - Python
+A percentage calculator to calculate shopping prices, discounts, etc.. Spanish - Python
